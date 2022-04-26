@@ -4,7 +4,7 @@ Hi, this is Pan Yao Ming.
 
 This is me:
 
-<img src="assets/cv.jpg" alt="me-now-2021" width="20%" />
+<img src="https://cdn.jsdelivr.net/gh/gtb-2022-pan-yaoming/.github@main/profile/assets/cv.jpg" alt="me" width="20%" />
 
 This is my website, [言语之庭](https://izypd.com):
 
